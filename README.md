@@ -9,4 +9,4 @@ Leaflet Minimap Plugin by Norkart: https://github.com/Norkart/Leaflet-MiniMap
 
 Leaflet EdgeMarker Plugin by ubergesundheit: https://github.com/ubergesundheit/Leaflet.EdgeMarker
 
-https://johnnypark.github.io/rovers-on-mars/
+https://klavere.github.io/rovers-on-mars/
